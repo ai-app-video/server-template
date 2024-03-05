@@ -1,9 +1,9 @@
-package com.github.firaja.aiapp.server;
+package com.github.aiappvideo.server;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-@SpringBootApplication
+@SpringBootApplication(scanBasePackages = {"com.github.aiappvideo"})
 public class ServerConfigApplication
 {
 

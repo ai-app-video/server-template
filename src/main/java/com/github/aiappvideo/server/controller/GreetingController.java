@@ -1,6 +1,6 @@
-package com.github.firaja.aiapp.server.controller;
+package com.github.aiappvideo.server.controller;
 
-import com.github.firaja.aiapp.server.service.GreetingService;
+import com.github.aiappvideo.server.service.GreetingService;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;

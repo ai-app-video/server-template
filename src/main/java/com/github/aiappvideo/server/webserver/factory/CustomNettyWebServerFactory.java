@@ -1,4 +1,4 @@
-package com.github.firaja.aiapp.server.webserver.factory;
+package com.github.aiappvideo.server.webserver.factory;
 
 import io.netty.channel.EventLoopGroup;
 import io.netty.channel.nio.NioEventLoopGroup;
