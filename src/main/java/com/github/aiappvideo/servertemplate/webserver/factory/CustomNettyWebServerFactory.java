@@ -1,4 +1,4 @@
-package com.github.aiappvideo.server.webserver.factory;
+package com.github.aiappvideo.servertemplate.webserver.factory;
 
 import io.netty.channel.EventLoopGroup;
 import io.netty.channel.nio.NioEventLoopGroup;

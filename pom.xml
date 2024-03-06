@@ -30,7 +30,7 @@
     <dependencies>
         <dependency>
             <groupId>com.github.aiappvideo</groupId>
-            <artifactId>core-services</artifactId>
+            <artifactId>core</artifactId>
             <version>0.1.0</version>
         </dependency>
         <dependency>

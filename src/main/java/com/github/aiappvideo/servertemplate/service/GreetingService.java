@@ -1,4 +1,4 @@
-package com.github.aiappvideo.server.service;
+package com.github.aiappvideo.servertemplate.service;
 
 import com.github.aiappvideo.core.services.ConfigurationService;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -13,7 +13,7 @@ public class GreetingService
 
     public Mono<String> greet(String name)
     {
-        return Mono.just(configurationService.start() + name);
+        return Mono.just(configurationService.get(name));
     }
 
     @Autowired

@@ -1,4 +1,4 @@
-package com.github.aiappvideo.server.webserver.factory;
+package com.github.aiappvideo.servertemplate.webserver.factory;
 
 import org.springframework.boot.web.embedded.netty.NettyReactiveWebServerFactory;
 import org.springframework.boot.web.embedded.netty.NettyServerCustomizer;

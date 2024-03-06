@@ -1,6 +1,6 @@
-package com.github.aiappvideo.server.controller;
+package com.github.aiappvideo.servertemplate.controller;
 
-import com.github.aiappvideo.server.service.GreetingService;
+import com.github.aiappvideo.servertemplate.service.GreetingService;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
